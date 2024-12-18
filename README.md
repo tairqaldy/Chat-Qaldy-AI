@@ -29,7 +29,6 @@ git clone https://github.com/tairqaldy/Chat-Qaldy-AI.git
 ```
 ## 2. Navigate to the Project Directory
 ```bash
-Copy code
 cd Chat-Qaldy-AI
 ```
 ## 3. Initialize Git (If Not Already Initialized)
