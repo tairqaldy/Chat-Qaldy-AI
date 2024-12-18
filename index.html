@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <title>Qaldy AI</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+<style type="text/css"></style></head>
+<body>
+    <div class="chat-ai"></div>
+    <script src="ChatAI.js"></script>
+    <script>
+        new ChatAI({
+            container: '.chat-ai',
+            api_key: 'API_KEY',
+            model: 'gpt-3.5-turbo',
+            max_tokens: 1000,
+            version: '1.0.1' // Укажите вашу версию здесь
+        });
+        </script>
+	</body>
+</html>
