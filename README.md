@@ -39,10 +39,8 @@ If you haven't initialized Git in your project directory, do so with:
 ```bash
 git init
 ```
-```bash
 4. Add and Commit Files
 Add all files to the staging area and commit them:
-```
 ```bash
 git add .
 git commit -m "First Commit version 1.0.1"
