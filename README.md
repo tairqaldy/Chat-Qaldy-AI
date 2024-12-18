@@ -27,39 +27,39 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/tairqaldy/Chat-Qaldy-AI.git
 ```
-2. Navigate to the Project Directory
+## 2. Navigate to the Project Directory
 ```bash
 Copy code
 cd Chat-Qaldy-AI
 ```
-3. Initialize Git (If Not Already Initialized)
+## 3. Initialize Git (If Not Already Initialized)
 ```bash
 If you haven't initialized Git in your project directory, do so with:
 ```
 ```bash
 git init
 ```
-4. Add and Commit Files
+## 4. Add and Commit Files
 Add all files to the staging area and commit them:
 ```bash
 git add .
 git commit -m "First Commit version 1.0.1"
 ```
-5. Add Remote Repository
+## 5. Add Remote Repository
 Link your local repository to GitHub:
 ```bash
 git remote add origin https://github.com/tairqaldy/Chat-Qaldy-AI.git
 ```
-6. Set Branch to Main
+## 6. Set Branch to Main
 ```bash
 git branch -M main
 ```
-7. Push to GitHub
+## 7. Push to GitHub
 ```bash
 git push -u origin main
 ```
-🔑 Setting Up Your OpenAI API Key
-To use Chat Qaldy AI, you need an OpenAI API Key:
+### 🔑 Setting Up Your OpenAI API Key
+# To use Chat Qaldy AI, you need an OpenAI API Key:
 
 Sign Up / Log In: Visit OpenAI's platform and sign up or log in.
 Generate API Key: Navigate to the API section in your dashboard and generate a new API key.
@@ -77,46 +77,46 @@ html:
     });
 </script>
 ```
-🧪 Running the Project Locally
+### 🧪 Running the Project Locally
 Open the Project:
 
 Navigate to the project directory.
 Open the index.html file in your preferred web browser (e.g., Chrome, Firefox, Edge).
 Start a Local Server (Optional but Recommended):
 
-Using Python:
+# Using Python:
 
 ```bash
 python -m http.server 8000
 Then, open http://localhost:8000 in your browser.
 ```
 
-Using VS Code Live Server:
+# Using VS Code Live Server:
 ```bash
 Install the Live Server extension.
 Right-click on index.html and select "Open with Live Server".
 ```
-Interact with the Chatbot:
+# Interact with the Chatbot:
 
 Type your messages in the input box and press Enter or click the send button.
 Customize settings by clicking the gear icon in the sidebar.
 
-📜 Version History
+### 📜 Version History
 Version 1.0.1
 Initial release.
 Implemented chat interface, conversation saving, and customizable settings.
 
-🌐 Resources & Credits
+## 🌐 Resources & Credits
 Tutorial Inspiration: This project was inspired by the CodeShack tutorial.
 Icons: Font Awesome is used for icons throughout the project.
 
-🧑‍💻 About the Author
+## 🧑‍💻 About the Author
 This project was made with ❤️ by Tair Kaldybayev.
 Feel free to explore my GitHub profile for more exciting projects.
 
-🌟 Contributing
+## 🌟 Contributing
 Contributions are welcome! If you'd like to suggest improvements or report bugs, feel free to open an issue or create a pull request.
 
-🛡️ License
+# 🛡️ License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project, provided you include the original license.
