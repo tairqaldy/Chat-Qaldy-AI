@@ -169,13 +169,6 @@ Feel free to explore my [GitHub profile](https://github.com/tairqaldy) for more 
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project, provided you include the original license.
-
----
-
 ## 👩‍💻 Developer Guide
 
 ### Contributing
@@ -227,4 +220,7 @@ Contributions are welcome! Whether it's fixing bugs, improving documentation, or
 
 ---
 
-Happy coding! 🎉
+## 🛡️ License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project, provided you include the original license.
